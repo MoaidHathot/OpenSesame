@@ -1,0 +1,2 @@
+S:\Programming\NodeJS\OpenSesame\OpenSesame\obj\Debug\OpenSesame.njsprojResolveAssemblyReference.cache
+S:\Programming\NodeJS\OpenSesame\OpenSesame\bin\Microsoft.NodejsTools.WebRole.dll

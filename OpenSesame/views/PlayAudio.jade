@@ -1,0 +1,8 @@
+﻿extends layout
+
+block content
+    h1= title
+    p Opening door #{id}
+    p Press 'play' to open the door.
+    audio(controls="controls", autoplay="autoplay")
+        source(src="/waves/#{id}.mp3", type="audio/mpeg")
